@@ -1,3 +1,5 @@
 <<<<<<< HEAD
+# TechCrush Practice
+This repository contains my assignment about creatig and pushing my work to github
 # CreativeHub homepage
->>>>>>> e4173ba1d1c320372525349902e7ffdc3037fdfe
+A simple weebsite using HTML, JavaScript and CSS
