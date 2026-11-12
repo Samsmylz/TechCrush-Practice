@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 # CreativeHub homepage
-# CreativeHub homepage git init
+>>>>>>> e4173ba1d1c320372525349902e7ffdc3037fdfe
